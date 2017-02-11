@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+*{ margin:0px;
+   padding:0px;
+}
+
+#header { background-color:#FF0;
+	      width:1350px;
+		  height:90px;		  
+}
+#seccion {background-color:#C96;
+          width:1180px;
+		  height:280px;
+		  float:right;
+		  		
+}
+#nav { background-color:#F00;
+	      width:200px;
+		  height:280px;	
+}
+ 
+#foot { background-color:#0C9;
+        width:1350px;
+		height:200px;
+}
+
+p{ color:#FFF;
+   background:#000;
+   width:1180px;
+   height:20px;
+}
+          
